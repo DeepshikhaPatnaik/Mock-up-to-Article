@@ -1,0 +1,21 @@
+*You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here.
+It has been really interesting so far. At the beginning I only had a rough idea of what it is but it gets clearer with each increasing courses.
+
+
+ Answer the following questions:
+  * What new skills have you learned?  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+
+1.Most of the things learned were new; Beginning with the problem solving strategies and developing a growth mindset to the HTML structure. Also the syntaxes and how and where to use them. At this point I am able to mock a basic article/blog well.
+
+2.The teaching structure and process made learning the syntaxes and HTML structure easy.
+
+3.Nothing has been difficult uptill now.
+
+4.In the Mockup to Article project, initially I wasnt getting the exact mockup. Using the problem solving strategies,I re-read the intructions and went down to research about the syntaxes and about their usage. This help in understanding it better and rectifying some small mistakes causing the error.
